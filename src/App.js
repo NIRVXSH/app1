@@ -5,7 +5,7 @@ function App() {
     return ( 
         <>
         <h2>DeveloperThai.com</h2><br />
-        <div className="title"> React & React Native </div>
+        <div className="title"> React & React Native By Fook </div>
         </>
         );
     }
