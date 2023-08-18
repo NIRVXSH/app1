@@ -16,7 +16,7 @@ export default function Banner(){
             break
         case 2:
             banner ='./banners/react-native.png'
-            url = 'https://www.reactnative.org'
+            url = 'https://www.react-native.org'
             break
         case 3:
             banner ='./banners/node.png'
